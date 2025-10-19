@@ -55,20 +55,17 @@ Tabulation for Load Test:
 
 Model graph:
 Open Circuit:
-
 ![WhatsApp Image 2025-10-19 at 13 14 24](https://github.com/user-attachments/assets/8f4e323e-1bf9-442b-9de5-96b6437b8e36)
 
 Load Circuit:
-
 ![WhatsApp Image 2025-10-19 at 13 15 13](https://github.com/user-attachments/assets/8973273e-caa7-4b92-b060-9cf059e79854)
 
 Open circuit characteristics:
+![WhatsApp Image 2025-10-19 at 13 18 26](https://github.com/user-attachments/assets/74ff6118-c37e-41e0-80fb-bbae60ab1b82)
 
-![WhatsApp Image 2025-10-19 at 13 03 16](https://github.com/user-attachments/assets/d45ceeca-07e4-4636-bc4c-b1ee8741c185)
-  
 Load Characteristics:
+![WhatsApp Image 2025-10-19 at 13 18 51](https://github.com/user-attachments/assets/ddb47556-fc0a-4f9c-8e93-f40c78794d95)
 
-![WhatsApp Image 2025-10-19 at 13 03 16 (1)](https://github.com/user-attachments/assets/fcfa015b-6b8b-4db5-8d9d-81a9e1a92dce)
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
