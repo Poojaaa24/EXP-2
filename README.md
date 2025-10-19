@@ -50,6 +50,7 @@ Procedure for Load test:
 Tabulation for Open Circuit Test:
 ![WhatsApp Image 2025-10-19 at 13 03 16](https://github.com/user-attachments/assets/1212a356-1164-499a-bee1-579bd8363956)
 
+
 Tabulation for Load Test:
 ![WhatsApp Image 2025-10-19 at 13 03 16 (1)](https://github.com/user-attachments/assets/35f62bae-5c5b-4e47-b354-87e6ac788cc9)
 
@@ -57,15 +58,23 @@ Model graph:
 Open Circuit:
 ![WhatsApp Image 2025-10-19 at 13 14 24](https://github.com/user-attachments/assets/8f4e323e-1bf9-442b-9de5-96b6437b8e36)
 
+<img width="1452" height="417" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/c515767a-55ec-4408-a89a-6448fe276938" />
+
 Load Circuit:
+
 ![WhatsApp Image 2025-10-19 at 13 15 13](https://github.com/user-attachments/assets/8973273e-caa7-4b92-b060-9cf059e79854)
+
+<img width="1736" height="714" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/63117914-f915-4475-b7ef-4c0dfcd9b70d" />
 
 Open circuit characteristics:
 ![WhatsApp Image 2025-10-19 at 13 18 26](https://github.com/user-attachments/assets/74ff6118-c37e-41e0-80fb-bbae60ab1b82)
 
+<img width="1920" height="801" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/11f86c88-bdc7-44e9-9210-1c7a2ff556c6" />
+
 Load Characteristics:
 ![WhatsApp Image 2025-10-19 at 13 18 51](https://github.com/user-attachments/assets/ddb47556-fc0a-4f9c-8e93-f40c78794d95)
 
+<img width="1757" height="755" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/d131a7d8-df11-44c2-83ba-24b7029beb9f" />
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
