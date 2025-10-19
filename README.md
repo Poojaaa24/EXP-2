@@ -51,8 +51,13 @@ Tabulation for Open Circuit Test:
 ![WhatsApp Image 2025-10-19 at 13 03 16](https://github.com/user-attachments/assets/1212a356-1164-499a-bee1-579bd8363956)
 
 
+<img width="415" height="417" alt="tab open" src="https://github.com/user-attachments/assets/b4fd4867-284d-43bb-aa38-25d9ed901a3d" />
+
 Tabulation for Load Test:
 ![WhatsApp Image 2025-10-19 at 13 03 16 (1)](https://github.com/user-attachments/assets/35f62bae-5c5b-4e47-b354-87e6ac788cc9)
+
+
+<img width="408" height="449" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/3063f7d1-a495-4f91-8aef-af9f7cbf4f5f" />
 
 Model graph:
 Open Circuit:
